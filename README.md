@@ -505,6 +505,52 @@ Execute Path: C:\Users\acegr\AppData\Local\Temp\9cb5ce.exe
             Timezone: Europe/Rome
 ```
 
+## PhantomStealer
+
+```
+
+😹 *Phantom stealer v3.5.0 - Report:*
+━━━━━━━━━━━━━━━━━━━━━━
+📅 Date: 2025-10-13 1:49:05 PM
+🖥️ System: Microsoft Windows 10 Pro (64 Bit)
+👤 Username: 12345678
+💻 CompName: ABCDEFGH
+🌐 Language: 🇺🇸 en-US
+🛡️ Antivirus: Not installed
+
+*NETWORK INFORMATION*
+━━━━━━━━━━━━━━━━━━━━━━
+🌐 Gateway IP: 192.168.0.1
+🔒 Internal IP: 192.168.0.124
+🌍 External IP: 172.217.30.9
+
+*BROWSER RECOVERIES*
+━━━━━━━━━━━━━━━━━━━━━━
+
+*SOFTWARE & ACCOUNTS*
+━━━━━━━━━━━━━━━━━━━━━━
+
+*Grabbed Files*
+━━━━━━━━━━━━━━━━━━━━━━
+
+*DEVICE INFORMATION*
+━━━━━━━━━━━━━━━━━━━━━━
+
+*INSTALLATION STATUS*
+━━━━━━━━━━━━━━━━━━━━━━
+   ∟ ⛔ Startup: Disabled
+   ∟ ⛔ Debug Mode: Disabled
+   ∟ ⛔ AntiAnalysis: Disabled
+   ∟ ✅ Keylogger: Enabled
+   ∟ ✅ Screenshot: Enabled
+   ∟ ✅ CryptoClipper: Enabled
+   ∟ ⛔ FileGrabber: Disabled
+
+ Telegram contact https://t.me/Oldphantomoftheopera
+
+ website https://www.phantomsoftwares.site/home
+```
+
 ## Phemedrone (Information.txt)
 
 ```
